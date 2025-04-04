@@ -1,5 +1,5 @@
 <h1>Sensitivity on Reservoir Computing wrt. training data</h1>
-<h2>Generating Data by solivng Hénon-Heiles-System</h2>
+<h2>Generating Data by solving Hénon-Heiles-System</h2>
 Hamiltonian given by:
 
 ```math
