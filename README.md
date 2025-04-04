@@ -1,1 +1,1 @@
-# SensitivityReservoirComputingh
+Sensitivity Reservoir Computing
