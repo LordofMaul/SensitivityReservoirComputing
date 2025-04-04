@@ -6,4 +6,4 @@ Hamiltonian given by:
 H=\frac{1}{2}(x^2+y^2+\dot x^2+\dot y^2)+x^2y-\frac{y^3}{3}
 ```
 
-Solving using Runge-Kutta-4 method
+Solving using Runge-Kutta-4 method $\sqrt{2$
